@@ -1,2 +1,0 @@
-# dialycollection
-dialy finance collection 
